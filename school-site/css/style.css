@@ -140,10 +140,8 @@ figcaption {
 
 /* Link Styling */
 
-a {
+a: {
     outline: none;
-
-
 }
 
 a:link, a:visited {
@@ -170,8 +168,6 @@ ol {
 .long-list a:hover {
     text-transform: uppercase;
 }
-
-
 
 nav {
     padding-left: 0;
